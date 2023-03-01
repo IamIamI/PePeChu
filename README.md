@@ -4,6 +4,8 @@ The animatronic pepe-pal
 This project was meant to be used to run a fabric puppet with a metal/plastic
 animatronic skeleton. 
 
+![alt text](https://github.com/IamIamI/PePeChu/blob/main/IMG_20221101_183807.jpg?raw=true)
+
 It was build as followed;
   - An ESP32
   - A non-descript SD card reader
@@ -19,7 +21,7 @@ It was build as followed;
 This is one of the first projects that is this size, so i think i'm not providing enough Amp 
 To power everything properly... but i can't test till the code works.
 
-![alt text](https://github.com/IamIamI/PePeChu/blob/main/Robo_pepev2_bb.jpg?raw=true)
+<img src="https://github.com/IamIamI/PePeChu/blob/main/Robo_pepev2_bb.jpg" width="50%"/>
 
 # Code v0.0.1
 So far the code produces a PePe webinterface. The eyes, mouth and nose can be clicken on to trigger
