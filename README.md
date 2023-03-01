@@ -1,8 +1,10 @@
-# PePeChu
+# PePeChu - WIP (Feb-2023)
 The animatronic pepe-pal
 
 This project was meant to be used to run a fabric puppet with a metal/plastic
-animatronic skeleton. It contains;
+animatronic skeleton. 
+
+It was build as followed;
   - An ESP32
   - A non-descript SD card reader
   - A max98357A sound amp
@@ -17,10 +19,14 @@ animatronic skeleton. It contains;
 This is one of the first projects that is this size, so i think i'm not providing enough Amp 
 To power everything properly... but i can't test till the code works.
 
+![alt text](https://github.com/IamIamI/PePeChu/blob/main/Robo_pepev2_bb.jpg?raw=true)
 
 # Code v0.0.1
 So far the code produces a PePe webinterface. The eyes, mouth and nose can be clicken on to trigger
 the code to run something. 
+
+![alt text](https://github.com/IamIamI/PePeChu/blob/main/PePeChu_interface.jpg?raw=true)
+
 Independantly i have managed to run audio from the SD card, and i have managed to independantly run 
 the servos. However when trying to integrate them i have yet to be able to run everything properly.
 I'm not sure yet what the problem is, first issue is that the audio won't start or cuts off short.
