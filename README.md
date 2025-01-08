@@ -24,12 +24,17 @@ To power everything properly... but i can't test till the code works.
 <img src="https://github.com/IamIamI/PePeChu/blob/main/Robo_pepev2_bb.jpg" width="50%"/>
 
 # Code v0.0.1
-So far the code produces a PePe webinterface. The eyes, mouth and nose can be clicken on to trigger
-the code to run something. 
+So far the code produces a PePe html5 based webinterface. The eyes, mouth and nose can be clicken on to trigger
+the code to run something (the red transparant boxes were just added for visual illustration on where the clickable areas are. 
+The idea is that the browser updates the individual images for each face element, and corresponds
+the press with a movement of the servos. The text box is intended for a bare-bones Text-2-speech function build into the library.
 
 ![alt text](https://github.com/IamIamI/PePeChu/blob/main/images/PePeChu_interface_def.jpg?raw=true)![alt text](https://github.com/IamIamI/PePeChu/blob/main/images/PePeChu_interface_interact.jpg?raw=true)
 
 Independantly i have managed to run audio from the SD card, and i have managed to independantly run 
-the servos. However when trying to integrate them i have yet to be able to run everything properly.
+the servos. The T2S works independantly too, however not as smooth as i hoped.
+The integration of all elements together however causes issues.
 I'm not sure yet what the problem is, first issue is that the audio won't start or cuts off short.
+
+At this point the project is abandoned, but will be resumed with a new puppet as i think the setup is just too "jank" atm and i have very little space to properly build something. 
 
