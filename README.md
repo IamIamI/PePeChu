@@ -4,7 +4,7 @@ The animatronic pepe-pal
 This project was meant to be used to run a fabric puppet with a metal/plastic
 animatronic skeleton. 
 
-![alt text](https://github.com/IamIamI/PePeChu/blob/main/IMG_20221101_183807.jpg?raw=true)
+![alt text](https://github.com/IamIamI/PePeChu/blob/main/images/IMG_20221101_183807.jpg?raw=true)
 
 It was build as followed;
   - An ESP32
@@ -27,7 +27,7 @@ To power everything properly... but i can't test till the code works.
 So far the code produces a PePe webinterface. The eyes, mouth and nose can be clicken on to trigger
 the code to run something. 
 
-![alt text](https://github.com/IamIamI/PePeChu/blob/main/PePeChu_interface.jpg?raw=true)
+![alt text](https://github.com/IamIamI/PePeChu/blob/main/images/PePeChu_interface_def.jpg?raw=true)(https://github.com/IamIamI/PePeChu/blob/main/images/PePeChu_interface_interact.jpg?raw=true)
 
 Independantly i have managed to run audio from the SD card, and i have managed to independantly run 
 the servos. However when trying to integrate them i have yet to be able to run everything properly.
